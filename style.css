@@ -103,4 +103,11 @@ p {
     text-align: center;
     margin: 45px;
   }
+  .email-link {
+    font-size: 28px;
+    text-align: center;
+  }
+  .contact-me {
+    font-size: 38px;
+  }
 }
