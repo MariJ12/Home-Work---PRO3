@@ -98,4 +98,9 @@ p {
   p {
     text-align: center;
   }
+  .link-button {
+    display: block;
+    text-align: center;
+    margin: 45px;
+  }
 }
